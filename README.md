@@ -1,6 +1,6 @@
 # PII-detector-tr
 
-A Python-based PII detection and anonymization tool for Turkish, featuring a Streamlit UI and Microsoft Presidio Analyzer & Anonymizer. ([GitHub](https://github.com/delos0/PII-detector-tr), [GitHub](https://github.com/delos0/PII-detector-tr/raw/main/requirements.txt))
+A Python-based PII detection and anonymization tool for Turkish, featuring a Streamlit UI and Microsoft Presidio Analyzer & Anonymizer.
 
 ## Features
 
