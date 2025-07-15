@@ -6,9 +6,10 @@ A Python-based PII detection and anonymization tool for Turkish, featuring a Str
 
 ## Features
 
-- Detects Turkish PII (e.g., T.C. Kimlik No, Phone numbers, Emails, Credit Card number, Address, Names and Surnames) with custom Presidio recognizers  
+- Detects Turkish PII (e.g., T.C. Kimlik No, Phone numbers, Emails, Credit Card number, Address, Names and Surnames) with custom Presidio recognizers
 - Supports anonymization via Presidio Anonymizer  
 - Interactive Streamlit web app with real-time masking/redacting
+- Displays analysis for findings and condifence scores
 
 ## Installation
 
